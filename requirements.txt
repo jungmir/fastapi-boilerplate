@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+sqlalchemy-utils
+sqlalchemy-mixins
+python-dotenv
+alembic
+pytest
+pytest-watch
+uvicorn
+psycopg2-binary
+requests
